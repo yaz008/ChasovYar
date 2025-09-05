@@ -1225,21 +1225,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_leather": "2025-09-05 16:22:08 +0300"
+      "has_pumpkin": "2025-09-05 16:08:04 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_leather": "2025-09-05 16:22:08 +0300"
+      "has_pumpkin": "2025-09-05 16:08:04 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
+  "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
-      "has_beef": "2025-09-05 16:20:03 +0300"
+      "has_yellow_wool": "2025-09-05 16:12:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-09-05 16:12:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-09-05 16:12:46 +0300"
     },
     "done": true
   },
@@ -1261,6 +1273,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-09-05 16:20:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-09-05 16:20:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-09-05 16:20:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-05 16:22:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-05 16:22:08 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-09-05 16:22:08 +0300"
@@ -1273,33 +1315,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-09-05 16:08:04 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2025-09-05 16:12:46 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-09-05 16:12:46 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-09-05 16:22:08 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2025-09-05 16:12:46 +0300"
     },
     "done": true
   },
@@ -1315,21 +1333,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_beef": "2025-09-05 16:20:03 +0300"
+      "has_logs": "2025-09-05 16:44:28 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_pumpkin": "2025-09-05 16:08:04 +0300"
+      "has_book": "2025-09-05 16:45:07 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_beef": "2025-09-05 16:20:03 +0300"
+      "has_book": "2025-09-05 16:45:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-05 16:45:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 16:44:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-05 16:45:07 +0300"
     },
     "done": true
   },
