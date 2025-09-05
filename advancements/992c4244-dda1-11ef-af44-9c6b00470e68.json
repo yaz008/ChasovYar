@@ -1149,6 +1149,7 @@
       "mutton": "2025-09-05 16:25:34 +0300",
       "bread": "2025-09-04 22:12:34 +0300",
       "cooked_cod": "2025-09-05 16:07:59 +0300",
+      "porkchop": "2025-09-05 17:19:29 +0300",
       "cooked_salmon": "2025-09-05 15:54:36 +0300"
     },
     "done": false
@@ -1339,6 +1340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 16:44:28 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-09-05 16:45:07 +0300"
@@ -1357,15 +1364,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-09-05 16:44:28 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-09-05 16:45:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-05 17:23:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 17:23:18 +0300"
     },
     "done": true
   },
