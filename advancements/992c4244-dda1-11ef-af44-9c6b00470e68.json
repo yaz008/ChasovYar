@@ -2004,21 +2004,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-09-07 03:42:49 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2025-09-07 03:41:26 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_planks": {
+  "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
-      "has_log": "2025-09-07 03:53:16 +0300"
+      "has_pink_wool": "2025-09-07 03:41:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-09-07 03:41:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-07 03:42:49 +0300"
     },
     "done": true
   },
@@ -2034,15 +2040,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_carpet": {
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
     "criteria": {
-      "has_pink_wool": "2025-09-07 03:41:26 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_banner": {
-    "criteria": {
-      "has_pink_wool": "2025-09-07 03:41:26 +0300"
+      "has_log": "2025-09-07 03:53:16 +0300"
     },
     "done": true
   },
